@@ -1,0 +1,1 @@
+<h3>hell,{{$name}}. Registration Done</h3>
